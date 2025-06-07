@@ -7,7 +7,7 @@ int main (){
 
     cout << "Ingrese su edad \n";
     cin >> edad;
-
+    
     if (edad <18){
         cout << "Eres menor de edad \n";
     } else if (edad >=18 && edad <=59){
